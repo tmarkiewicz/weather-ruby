@@ -5,7 +5,7 @@ Basic demonstration of how to access Weather Company and Netatmo API data using 
 ## Setup
 If not already installed, you'll need the [bundler gem](https://bundler.io/) for this proejct.
 
-Once bundler is installed, you'll need to install the gems listed in the `Gemfile`
+Once bundler is installed, you can install the gems listed in the `Gemfile`
 
 ``` bash
 $ gem install bundler
