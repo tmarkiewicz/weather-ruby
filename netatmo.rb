@@ -7,7 +7,6 @@ if client.authenticate
 end
 
 data["body"]["devices"][0]["modules"].each do |device|
-  puts device
   celsius = device["dashboard_data"]["Temperature"].to_s
   fahrenheit = ((celsius.to_i * 9 / 5) + 32).to_s
 
