@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'atmos'
+gem 'atmo'
 gem 'httparty'
 gem 'dotenv'
