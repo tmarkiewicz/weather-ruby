@@ -120,3 +120,9 @@ Time: 2019-03-12 14:19:50 -0600
 Temperature: 50 deg F
 Humidity: 45%
 ```
+
+## Related resources
+* [Create a mobile app with weather forecasting](https://ibm.biz/BdzFnT)
+* [Serverless approach to Weather Underground](https://ibm.biz/BdzFnt)
+* [Integrate weather information into Watson Assistant](https://ibm.biz/BdzFeB)
+
