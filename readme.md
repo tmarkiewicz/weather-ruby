@@ -8,8 +8,8 @@ Basic demonstration of how to access Weather Company Data and Netatmo API data u
 Clone the repo:
 
 ```bash
-git clone https://github.com/tmarkiewicz/weather-ruby
-cd weather-ruby
+$ git clone https://github.com/tmarkiewicz/weather-ruby
+$ cd weather-ruby
 ```
 
 If not already installed, you'll need the bundler gem for this project.
